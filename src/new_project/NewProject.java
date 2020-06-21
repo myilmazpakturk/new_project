@@ -6,6 +6,7 @@ public class NewProject {
 		System.out.println("merhaba asker");
 		System.out.println("saol");
 		System.out.println("tekrar merhaba asker");
+		System.out.println("tekrar saol");
 
 	}
 
