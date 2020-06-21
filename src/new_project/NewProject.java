@@ -7,6 +7,7 @@ public class NewProject {
 		System.out.println("saol");
 		System.out.println("tekrar merhaba asker");
 		System.out.println("tekrar saol");
+		System.out.println("gorusuruz asker");
 
 	}
 
